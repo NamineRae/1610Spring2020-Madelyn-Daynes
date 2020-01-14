@@ -9,3 +9,4 @@ line four
 9
 10
 I watched a bunch of unity coding tutorial videos 1/12/20
+watched a bunch more unity c# coding tutorials 1/13/20
