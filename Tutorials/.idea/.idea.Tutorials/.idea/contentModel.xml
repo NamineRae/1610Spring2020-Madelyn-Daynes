@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\madel\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\madel\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Tutorials.1325825489.00" t="ExcludeRecursive" />
+    <e p="E:\Games\1610Spring2020 Madelyn Daynes\Tutorials" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Tutorial Scripts" t="Include">
+          <e p="NewBehaviourScript.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Tutorials.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
