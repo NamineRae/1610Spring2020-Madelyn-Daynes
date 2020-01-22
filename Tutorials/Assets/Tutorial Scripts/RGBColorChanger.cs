@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 //This is from a Unity Learn tutorial
-public class ExampleBehaviorScript : MonoBehaviour
+public class RGBColorChanger : MonoBehaviour
 {
     void Update()
     {

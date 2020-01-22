@@ -11,7 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/NewBehaviourScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/RGBColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -72,6 +72,7 @@
       <updated>1579637872065</updated>
       <workItem from="1579637888064" duration="2038000" />
       <workItem from="1579712462216" duration="1829000" />
+      <workItem from="1579717621009" duration="620000" />
     </task>
     <servers />
   </component>
