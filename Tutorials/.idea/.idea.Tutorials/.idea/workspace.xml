@@ -11,12 +11,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/DoWhileLoopTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/IfStatementsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/WhileLoopTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/ConventionsAndSyntaxTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/RGBColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/VariablesAndFunctionsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/VariablesAndFunctionsTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/ConventionsAndSyntaxTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/IfStatementsTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/WhileLoopTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/DoWhileLoopTutorial.cs" />
       </list>
     </option>
   </component>
@@ -73,6 +83,7 @@
       <workItem from="1579637888064" duration="2038000" />
       <workItem from="1579712462216" duration="1829000" />
       <workItem from="1579717621009" duration="620000" />
+      <workItem from="1579720528294" duration="3502000" />
     </task>
     <servers />
   </component>
