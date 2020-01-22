@@ -1,10 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class 'Assets.Tutorial_Scripts' : MonoBehaviour
+//This is from a Unity Learn tutorial
+public class ExampleBehaviorScript : MonoBehaviour
 {
-    // This is the color changer
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.R))
@@ -19,9 +18,9 @@ public class 'Assets.Tutorial_Scripts' : MonoBehaviour
                 ().material.color = Color.green;
         }
 
-        if (Input.GetKeyDown(KeyCode.b))
+        if (Input.GetKeyDown(KeyCode.B))
         {
-            GetCOmponent<Renderer>
+            GetComponent<Renderer>
                 ().material.color = Color.blue;
         }
     }

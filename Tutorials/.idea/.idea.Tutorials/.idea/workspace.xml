@@ -28,10 +28,25 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -56,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579637872065</updated>
       <workItem from="1579637888064" duration="2038000" />
+      <workItem from="1579712462216" duration="1829000" />
     </task>
     <servers />
   </component>
@@ -63,11 +79,11 @@
     <option name="version" value="1" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
-  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="WindowStateProjectService">
-    <state x="555" y="59" key="SettingsEditor" timestamp="1579639325578">
+    <state x="155" y="22" key="SettingsEditor" timestamp="1579714610361">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="555" y="59" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579639325578" />
+    <state x="155" y="22" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579714610361" />
   </component>
 </project>
