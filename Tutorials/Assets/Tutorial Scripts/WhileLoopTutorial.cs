@@ -4,7 +4,7 @@ using UnityEngine;
 //Note to self: IT AINT WORKIN GET HELP
 public class WhileLoopTutorial : MonoBehaviour
 {
-    private int cupsInTheSink = 4;
+    int cupsInTheSink = 4;
 
     void Start()
     {
@@ -15,6 +15,11 @@ public class WhileLoopTutorial : MonoBehaviour
         }
     }
 }
-
-//This is from a Unity Learn tutorial
 //I am copying the code, but its re-typing it by hand, not copy-and-paste
+/*this
+is
+from
+a 
+unity
+learn
+tutorial*/

@@ -11,12 +11,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/ForLoopTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/DoWhileLoopTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/IfStatementsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/ForeachLoopTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/WhileLoopTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/ConventionsAndSyntaxTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/RGBColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/VariablesAndFunctionsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/AnotherClassTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial Scripts/ScopeAndAccessModifiersTutorial.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -25,8 +29,13 @@
         <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/VariablesAndFunctionsTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/ConventionsAndSyntaxTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/IfStatementsTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/ForLoopTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/WhileLoopTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/DoWhileLoopTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/ForeachLoopTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScopeAndAccessModifiersTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/ScopeAndAccessModifiersTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorial Scripts/AnotherClassTutorial.cs" />
       </list>
     </option>
   </component>
@@ -84,6 +93,7 @@
       <workItem from="1579712462216" duration="1829000" />
       <workItem from="1579717621009" duration="620000" />
       <workItem from="1579720528294" duration="3502000" />
+      <workItem from="1579903980732" duration="3013000" />
     </task>
     <servers />
   </component>

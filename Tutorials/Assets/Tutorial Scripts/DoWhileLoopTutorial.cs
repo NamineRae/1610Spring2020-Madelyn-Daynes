@@ -15,3 +15,15 @@ public class DoWhileLoopTutorial : MonoBehaviour
     }
 }
 //again, from a Unity Learn tutorial
+/*still
+the 
+tutorial
+about
+loops
+i
+found
+through
+the 
+link
+on 
+canvas*/
