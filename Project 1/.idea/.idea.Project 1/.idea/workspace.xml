@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/CheckStateTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/TransformFunctionsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ActiveObjectsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/EnableComponentsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Newer.cs" root0="FORCE_HIGHLIGHTING" />
@@ -33,6 +34,7 @@
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/CameraLookAtTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/TriggeringEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/MouseEvents.cs" />
       </list>
     </option>
   </component>
@@ -91,7 +93,7 @@
       <workItem from="1580146296445" duration="2826000" />
       <workItem from="1580152112472" duration="3008000" />
       <workItem from="1580273573753" duration="1565000" />
-      <workItem from="1580317690508" duration="1736000" />
+      <workItem from="1580317690508" duration="3005000" />
     </task>
     <servers />
   </component>
