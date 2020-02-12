@@ -12,6 +12,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/KeyInputTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/TransformFunctionsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ActiveObjectsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyBasicTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -24,6 +25,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/IfStatement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ButtonInputTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/EnableComponentsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Newer.cs" root0="FORCE_HIGHLIGHTING" />
@@ -43,10 +45,13 @@
         <option value="$PROJECT_DIR$/Assets/Scenes/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/DestroyOtherTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/DestroyComponentTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/TutorialScripts/DestroyBasicTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/IfStatement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/RigidBodyForces.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/CharacterMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/DestroyBasicTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/ButtonUnputTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/KeyInputTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/ButtonInputTutorial.cs" />
       </list>
     </option>
   </component>
@@ -110,6 +115,7 @@
       <workItem from="1580923378510" duration="3218000" />
       <workItem from="1580928456231" duration="707000" />
       <workItem from="1581355127887" duration="3671000" />
+      <workItem from="1581473685401" duration="3839000" />
     </task>
     <servers />
   </component>

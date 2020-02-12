@@ -18,12 +18,14 @@
         </e>
         <e p="TutorialScripts" t="Include">
           <e p="ActiveObjectsTutorial.cs" t="Include" />
+          <e p="ButtonInputTutorial.cs" t="Include" />
           <e p="CameraLookAtTutorial.cs" t="Include" />
           <e p="CheckStateTutorial.cs" t="Include" />
           <e p="DestroyBasicTutorial.cs" t="Include" />
           <e p="DestroyComponentTutorial.cs" t="Include" />
           <e p="DestroyOtherTutorial.cs" t="Include" />
           <e p="EnableComponentsTutorial.cs" t="Include" />
+          <e p="KeyInputTutorial.cs" t="Include" />
           <e p="TransformFunctionsTutorial.cs" t="Include" />
         </e>
       </e>
