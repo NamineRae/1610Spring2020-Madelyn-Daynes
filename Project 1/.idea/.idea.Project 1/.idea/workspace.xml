@@ -11,6 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DualAxisTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/KeyInputTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/TransformFunctionsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ActiveObjectsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -21,8 +22,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/CheckStateTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyOtherTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/AxisTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ButtonInputTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/EnableComponentsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/AxisRawTutorial.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -48,6 +51,9 @@
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/ButtonInputTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LightThing.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/AxisRawTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/AxisTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/DualAxisTutorial.cs" />
       </list>
     </option>
   </component>
@@ -113,6 +119,7 @@
       <workItem from="1581355127887" duration="3671000" />
       <workItem from="1581473685401" duration="4140000" />
       <workItem from="1581528189256" duration="3758000" />
+      <workItem from="1581638271635" duration="1631000" />
     </task>
     <servers />
   </component>
