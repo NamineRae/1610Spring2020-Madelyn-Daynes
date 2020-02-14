@@ -21,6 +21,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyComponentTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/CheckStateTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyOtherTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/MouseClickTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/AxisTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ButtonInputTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -54,6 +55,7 @@
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/AxisRawTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/AxisTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/DualAxisTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/MouseClickTutorial.cs" />
       </list>
     </option>
   </component>
@@ -119,7 +121,8 @@
       <workItem from="1581355127887" duration="3671000" />
       <workItem from="1581473685401" duration="4140000" />
       <workItem from="1581528189256" duration="3758000" />
-      <workItem from="1581638271635" duration="1631000" />
+      <workItem from="1581638271635" duration="2392000" />
+      <workItem from="1581640847129" duration="165000" />
     </task>
     <servers />
   </component>

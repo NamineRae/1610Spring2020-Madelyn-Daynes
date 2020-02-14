@@ -31,6 +31,7 @@
           <e p="DualAxisTutorial.cs" t="Include" />
           <e p="EnableComponentsTutorial.cs" t="Include" />
           <e p="KeyInputTutorial.cs" t="Include" />
+          <e p="MouseClickTutorial.cs" t="Include" />
           <e p="TransformFunctionsTutorial.cs" t="Include" />
         </e>
       </e>
