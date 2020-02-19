@@ -20,11 +20,13 @@
         </e>
         <e p="TutorialScripts" t="Include">
           <e p="ActiveObjectsTutorial.cs" t="Include" />
+          <e p="AnotherScriptTutorial.cs" t="Include" />
           <e p="AxisRawTutorial.cs" t="Include" />
           <e p="AxisTutorial.cs" t="Include" />
           <e p="ButtonInputTutorial.cs" t="Include" />
           <e p="CameraLookAtTutorial.cs" t="Include" />
           <e p="CheckStateTutorial.cs" t="Include" />
+          <e p="DatatypeScriptTutorial.cs" t="Include" />
           <e p="DestroyBasicTutorial.cs" t="Include" />
           <e p="DestroyComponentTutorial.cs" t="Include" />
           <e p="DestroyOtherTutorial.cs" t="Include" />
@@ -33,6 +35,9 @@
           <e p="KeyInputTutorial.cs" t="Include" />
           <e p="MouseClickTutorial.cs" t="Include" />
           <e p="TransformFunctionsTutorial.cs" t="Include" />
+          <e p="UsingDeltaTimesTutorial.cs" t="Include" />
+          <e p="UsingOtherComponentsTutorial.cs" t="Include" />
+          <e p="YetAnotherScriptTutorial.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
