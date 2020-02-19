@@ -13,13 +13,16 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/UsingDeltaTimesTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DualAxisTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/KeyInputTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/TransformFunctionsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ActiveObjectsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LightThing.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DatatypeScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyBasicTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/CameraLookAtTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyComponentTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/CheckStateTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyOtherTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -66,6 +69,9 @@
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/AnotherScriptTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/DatatypeScriptTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/UsingDeltaTimesTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -133,7 +139,8 @@
       <workItem from="1581528189256" duration="3758000" />
       <workItem from="1581638271635" duration="2392000" />
       <workItem from="1581640847129" duration="165000" />
-      <workItem from="1582068720271" duration="2578000" />
+      <workItem from="1582068720271" duration="2978000" />
+      <workItem from="1582132948623" duration="3848000" />
     </task>
     <servers />
   </component>
@@ -160,10 +167,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="844" y="137" key="RiderGenerateDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1580274130593" />
-    <state x="277" y="56" key="SettingsEditor" timestamp="1579110702723">
+    <state x="277" y="56" key="SettingsEditor" timestamp="1582133546615">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579110702723" />
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582133546615" />
     <state x="926" y="58" width="672" height="678" key="search.everywhere.popup" timestamp="1582069369669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
