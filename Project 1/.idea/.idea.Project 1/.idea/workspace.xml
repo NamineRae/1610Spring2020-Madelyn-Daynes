@@ -11,30 +11,32 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/UsingDeltaTimesTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DualAxisTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/KeyInputTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/TransformFunctionsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ActiveObjectsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LightThing.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DatatypeScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyBasicTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/CameraLookAtTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyComponentTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/CheckStateTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyOtherTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/MouseClickTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/AxisTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/AnotherScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ButtonInputTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/UsingOtherComponentsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/YetAnotherScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/EnableComponentsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/AxisRawTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/UsingDeltaTimesTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DualAxisTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/KeyInputTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ActiveObjectsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LightThing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DatatypeScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/CameraLookAtTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/MouseClickTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/AxisTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/AnotherScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/UsingOtherComponentsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/YetAnotherScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -69,9 +71,10 @@
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/AnotherScriptTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/DatatypeScriptTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/UsingDeltaTimesTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -141,6 +144,7 @@
       <workItem from="1581640847129" duration="165000" />
       <workItem from="1582068720271" duration="2978000" />
       <workItem from="1582132948623" duration="4263000" />
+      <workItem from="1582564816918" duration="3513000" />
     </task>
     <servers />
   </component>
