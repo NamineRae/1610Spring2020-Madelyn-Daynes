@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 279075312de6c694d8d06d72bef7026c, type: 3}
-  m_Name: HealthFloat
+  m_Script: {fileID: 11500000, guid: 2e56ac9511454de46b2cc85248daae12, type: 3}
+  m_Name: AmmoInt
   m_EditorClassIdentifier: 
-  value: 110
+  value: -5
