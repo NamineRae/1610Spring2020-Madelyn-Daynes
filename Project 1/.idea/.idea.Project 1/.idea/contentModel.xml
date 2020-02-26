@@ -18,6 +18,7 @@
           <e p="NewClass.cs" t="Include" />
           <e p="Newer.cs" t="Include" />
           <e p="RigidBodyForces.cs" t="Include" />
+          <e p="SingleTrigger.cs" t="Include" />
           <e p="SpriteController.cs" t="Include" />
           <e p="TextBehaviour.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />

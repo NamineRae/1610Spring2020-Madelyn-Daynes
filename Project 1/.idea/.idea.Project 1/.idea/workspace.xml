@@ -23,6 +23,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/EnableComponentsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/AxisRawTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SingleTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/UsingDeltaTimesTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DualAxisTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -71,10 +72,11 @@
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/AnotherScriptTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/DatatypeScriptTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/UsingDeltaTimesTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SingleTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
       </list>
     </option>
   </component>
@@ -145,6 +147,7 @@
       <workItem from="1582068720271" duration="2978000" />
       <workItem from="1582132948623" duration="4263000" />
       <workItem from="1582564816918" duration="3832000" />
+      <workItem from="1582673391714" duration="1677000" />
     </task>
     <servers />
   </component>
@@ -175,9 +178,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582133546615" />
-    <state x="926" y="58" width="672" height="678" key="search.everywhere.popup" timestamp="1582069369669">
+    <state x="926" y="58" width="672" height="678" key="search.everywhere.popup" timestamp="1582674086443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="926" y="58" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582069369669" />
+    <state x="926" y="58" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582674086443" />
   </component>
 </project>
