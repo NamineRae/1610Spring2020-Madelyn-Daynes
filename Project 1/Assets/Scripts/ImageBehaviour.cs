@@ -16,7 +16,7 @@ public class ImageBehaviour : MonoBehaviour
     
     void Update()
     {
-        imageObj.fillAmount = dataObj.value; 
+        imageObj.fillAmount = dataObj.value;
     }
 }
 //hw= try to get health image to reflect the float value

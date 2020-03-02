@@ -72,11 +72,11 @@
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/AnotherScriptTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/DatatypeScriptTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/UsingDeltaTimesTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SingleTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -149,6 +149,7 @@
       <workItem from="1582564816918" duration="3832000" />
       <workItem from="1582673391714" duration="2057000" />
       <workItem from="1582737069371" duration="1921000" />
+      <workItem from="1583125338520" duration="1007000" />
     </task>
     <servers />
   </component>
