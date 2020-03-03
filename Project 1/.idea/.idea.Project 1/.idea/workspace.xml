@@ -12,9 +12,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ShootingTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/TransformFunctionsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/MovementControlsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyBasicTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/InventoryTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyComponentTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/CheckStateTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyOtherTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -33,6 +36,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DatatypeScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/CameraLookAtTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/SingleCharacterScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/MouseClickTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/AxisTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/AnotherScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -77,6 +81,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/SingleCharacterScriptTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/MovementControlsTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/InventoryTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/ShootingTutorial.cs" />
       </list>
     </option>
   </component>
@@ -150,6 +158,7 @@
       <workItem from="1582673391714" duration="2057000" />
       <workItem from="1582737069371" duration="1921000" />
       <workItem from="1583125338520" duration="1406000" />
+      <workItem from="1583197759605" duration="3156000" />
     </task>
     <servers />
   </component>
