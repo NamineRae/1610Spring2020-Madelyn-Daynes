@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MovementControlsTutorial : MonoBehaviour
+/*public class MovementControlsTutorial : MonoBehaviour
 {
     public float speed;
     public float turnSpeed;
     void Update ()
     {
-        MovementControlsTutorial();
+        MovementControlsTutorial;
     }
 
     void Movement ()
@@ -20,4 +20,4 @@ public class MovementControlsTutorial : MonoBehaviour
         transform.Rotate(Vector3.up * turnMovement);
     }
 }
-//unity learn tutorial
+//unity learn tutorial*/

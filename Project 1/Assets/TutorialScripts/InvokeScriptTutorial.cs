@@ -13,7 +13,7 @@ public class InvokeScriptTutorial : MonoBehaviour
     
     void SpawnObject()
     {
-        Instantiate(target(), new Vector3(0, 2, 0), Quaternion.identity);
+        Instantiate(target, new Vector3(0, 2, 0), Quaternion.identity);
     }
 }
 //unity learn tutorial

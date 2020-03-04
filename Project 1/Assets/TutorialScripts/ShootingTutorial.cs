@@ -1,8 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class ShootingTutorial : MonoBehaviour
+/*public class ShootingTutorial : MonoBehaviour
 {
     public Rigidbody bulletPrefab;
     public Transform firePosition;
@@ -31,4 +29,4 @@ public class ShootingTutorial : MonoBehaviour
         }
     }
 }
-//unity learn tutorial
+//unity learn tutorial*/

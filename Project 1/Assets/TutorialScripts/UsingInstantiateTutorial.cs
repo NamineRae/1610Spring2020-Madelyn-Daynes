@@ -11,8 +11,8 @@ public class UsingInstantiateTutorial : MonoBehaviour
         if (Input.GetButtonDown("Fire1"))
         {
             Rigidbody rocketInstance;
-            rocketInstance = Instantiate(rocketPrefab, barrelEnd().position, barrelEnd().rotation) as Rigidbody;
-            rocketInstance.AddForce(barrelEnd().forward * 5000);
+            rocketInstance = Instantiate(rocketPrefab, barrelEnd.position, barrelEnd.rotation) as Rigidbody;
+            rocketInstance.AddForce(barrelEnd.forward * 5000);
         }
     }
 }

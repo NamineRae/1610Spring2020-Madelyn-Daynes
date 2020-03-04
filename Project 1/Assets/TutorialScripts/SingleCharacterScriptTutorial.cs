@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SingleCharacterScriptTutorial : MonoBehaviour
+/*public class SingleCharacterScriptTutorial : MonoBehaviour
 {
     public class Stuff
     {
@@ -51,5 +51,5 @@ public class SingleCharacterScriptTutorial : MonoBehaviour
         }
     }
 }
-//from unity learn tutorial
+//from unity learn tutorial*/
 

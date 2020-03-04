@@ -1,8 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class InventoryTutorial : MonoBehaviour
+/*public class InventoryTutorial : MonoBehaviour
 {
     public class Stuff
     {
@@ -17,7 +15,7 @@ public class InventoryTutorial : MonoBehaviour
             grenades = grenades;
             rockets = roc;
         }
-public SingleCharacterScriptTutorial.Stuff(int bul, float fu)
+public SingleCharacterScriptTutorial.Stuff()
 {
     bullets = bullets;
     fuel = fuel;
@@ -29,13 +27,13 @@ public Stuff()
             rockets = 1;
         }
     }
-    public Stuff myStuff = new Stuff(50, 1.5f);
+    public Stuff myStuff = new Stuff();
     
-    public Stuff myOtherStuff = new Stuff(50, 1.5f);
+    public Stuff myOtherStuff = new Stuff();
 
     void Start()
     {
         Debug.Log(myStuff.bullets);
     }
 }
-//unity learn tutorial
+//unity learn tutorial*/

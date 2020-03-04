@@ -23,6 +23,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyOtherTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ConversationScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoBehaviours.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ButtonInputTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/EnableComponentsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/AxisRawTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -37,12 +38,14 @@
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ActiveObjectsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LightThing.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DatatypeScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StringData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/InvokeScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/CameraLookAtTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/SingleCharacterScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ArraysTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/MouseClickTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/AxisTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/UsingInstantiateTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/AnotherScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -88,17 +91,20 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
-        <option value="$PROJECT_DIR$/Assets/TutorialScripts/SingleCharacterScriptTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/TutorialScripts/MovementControlsTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/TutorialScripts/InventoryTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/TutorialScripts/ShootingTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/TutorialScripts/UsingInstantiateTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/RocketDestructionTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/TutorialScripts/ArraysTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/InvokeRepeatingTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/TutorialScripts/InvokeScriptTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/EnumScriptTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/ConversationScriptTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StringData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoBehaviours.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Vector3Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/UsingInstantiateTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/InvokeScriptTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/ArraysTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/InventoryTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/MovementControlsTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/ShootingTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/SingleCharacterScriptTutorial.cs" />
       </list>
     </option>
   </component>
@@ -173,7 +179,8 @@
       <workItem from="1582737069371" duration="1921000" />
       <workItem from="1583125338520" duration="1406000" />
       <workItem from="1583197759605" duration="3423000" />
-      <workItem from="1583279131943" duration="3265000" />
+      <workItem from="1583279131943" duration="3736000" />
+      <workItem from="1583341327917" duration="4682000" />
     </task>
     <servers />
   </component>
@@ -204,9 +211,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582133546615" />
-    <state x="926" y="58" width="672" height="678" key="search.everywhere.popup" timestamp="1582674086443">
+    <state x="926" y="58" width="672" height="678" key="search.everywhere.popup" timestamp="1583344725628">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="926" y="58" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582674086443" />
+    <state x="926" y="58" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583344725628" />
   </component>
 </project>
