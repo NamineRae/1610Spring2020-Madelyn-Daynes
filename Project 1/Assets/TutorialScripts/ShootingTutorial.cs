@@ -6,11 +6,11 @@ public class ShootingTutorial : MonoBehaviour
     public Transform firePosition;
     public float bulletSpeed;
 
-    private Inventory inventory;
+    private InventoryTutorial inventory;
     
     void Awake()
     {
-        inventory = GetComponent<Inventory>();
+        inventory = GetComponent<InventoryTutorial>();
     }
     
     void Update()
