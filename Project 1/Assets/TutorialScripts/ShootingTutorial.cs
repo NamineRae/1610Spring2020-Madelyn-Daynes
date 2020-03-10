@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-/*public class ShootingTutorial : MonoBehaviour
+public class ShootingTutorial : MonoBehaviour
 {
     public Rigidbody bulletPrefab;
     public Transform firePosition;
@@ -15,18 +15,18 @@
     
     void Update()
     {
-        ShootingTutorial();
+        Shoot();
     }
 
     void Shoot()
     {
         if (Input.GetButtonDown("Fire1") && inventory.myStuff.bullets > 0)
         {
-            Rigidbody bulletInstance = Instantiate(bulletPrefab, firePosition,firePosition, firePosition.rotation) as Rigidbody;
+            Rigidbody bulletInstance = Instantiate(bulletPrefab, firePosition.position,firePosition.rotation) as Rigidbody;
             ;
             bulletInstance.AddForce(firePosition.forward * bulletSpeed);
             inventory.myStuff.bullets--;
         }
     }
 }
-//unity learn tutorial*/
+//unity learn tutorial

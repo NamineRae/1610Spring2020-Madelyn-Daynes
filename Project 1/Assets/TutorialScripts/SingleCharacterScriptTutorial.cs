@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-/*public class SingleCharacterScriptTutorial : MonoBehaviour
+public class SingleCharacterScriptTutorial : MonoBehaviour
 {
     public class Stuff
     {
@@ -28,7 +28,7 @@ using UnityEngine;
     void Update()
     {
         Movement();
-        Shooting();
+        Shoot();
     }
 
     void Movement()
@@ -44,12 +44,13 @@ using UnityEngine;
     {
         if (Input.GetButtonDown("Fire1") && myStuff.bullets > 0)
         {
-            Rigidbody bulletINstance =
-                Instantiate(bulletPrefab, firePosition.position, firepositioin.rotation) as Rigidbody;
-            bulletINstance.AddForce(firePosition.forward * bulletSpeed);
-            myStuff.bullets--;
+            Rigidbody bulletInstance = Instantiate(bulletPrefab, firePosition.position, firePositioin.rotation) as Rigidbody;
+          
+            bulletInstance.AddForce(firePosition.forward * bulletSpeed);
+            
+                myStuff.bullets--;
         }
     }
 }
-//from unity learn tutorial*/
+//from unity learn tutorial
 

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-/*public class InventoryTutorial : MonoBehaviour
+public class InventoryTutorial : MonoBehaviour
 {
     public class Stuff
     {
@@ -9,13 +9,13 @@
         public int rockets;
         public float fuel;
         
-        public SingleCharacterScriptTutorial.Stuff(int bul, int gre, int roc)
+        public Stuff(int bul, int gre, int roc)
         {
             bullets = bullets;
             grenades = grenades;
-            rockets = roc;
+            rockets = rockets;
         }
-public SingleCharacterScriptTutorial.Stuff()
+public Stuff(int bul, float fu)
 {
     bullets = bullets;
     fuel = fuel;
@@ -36,4 +36,4 @@ public Stuff()
         Debug.Log(myStuff.bullets);
     }
 }
-//unity learn tutorial*/
+//unity learn tutorial
