@@ -40,6 +40,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/KeyInputTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ActiveObjectsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LightThing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NavAgentBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DatatypeScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StringData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/InvokeScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -59,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scenes/Newer.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/EnableComponentsTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/ActiveObjectsTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/CheckStateTutorial.cs" />
@@ -110,6 +110,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ListAndLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CollectableList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NavAgentBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -190,6 +191,7 @@
       <workItem from="1583811490153" duration="1786000" />
       <workItem from="1583881791184" duration="725000" />
       <workItem from="1583942971722" duration="4624000" />
+      <workItem from="1585155010240" duration="1325000" />
     </task>
     <servers />
   </component>

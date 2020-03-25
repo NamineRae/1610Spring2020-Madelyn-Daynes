@@ -18,6 +18,7 @@
           <e p="ListAndLoops.cs" t="Include" />
           <e p="MonoBehaviours.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
+          <e p="NavAgentBehaviour.cs" t="Include" />
           <e p="NewBehaviourScript.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
           <e p="Newer.cs" t="Include" />
