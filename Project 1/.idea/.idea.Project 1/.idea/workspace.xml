@@ -11,6 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnumsSwitches.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ShootingTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/TransformFunctionsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -23,6 +24,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyComponentTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/CheckStateTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/DestroyOtherTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/ConversationScriptTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collectable.cs" root0="FORCE_HIGHLIGHTING" />
@@ -60,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/TutorialScripts/EnableComponentsTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/TutorialScripts/ActiveObjectsTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/CheckStateTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/TransformFunctionsTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/CameraLookAtTutorial.cs" />
@@ -108,9 +108,11 @@
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/ShootingTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/SingleCharacterScriptTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ListAndLoops.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CollectableList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NavAgentBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Debugger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnumsSwitches.cs" />
       </list>
     </option>
   </component>
@@ -191,7 +193,7 @@
       <workItem from="1583811490153" duration="1786000" />
       <workItem from="1583881791184" duration="725000" />
       <workItem from="1583942971722" duration="4624000" />
-      <workItem from="1585155010240" duration="1325000" />
+      <workItem from="1585155010240" duration="6842000" />
     </task>
     <servers />
   </component>

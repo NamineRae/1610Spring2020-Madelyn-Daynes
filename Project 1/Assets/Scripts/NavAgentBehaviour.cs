@@ -16,7 +16,7 @@ public class NavAgentBehaviour : MonoBehaviour
     
     void Update()
     {
-        agent.destination = PlayerPrefs.position;
+        //agent.destination = PlayerPrefs.position;
 
     }
 }
