@@ -7,6 +7,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="AlternateCoroutine.cs" t="Include" />
           <e p="CharacterMovement.cs" t="Include" />
           <e p="Collectable.cs" t="Include" />
           <e p="CollectableList.cs" t="Include" />
@@ -57,7 +58,6 @@
           <e p="KeyInputTutorial.cs" t="Include" />
           <e p="MouseClickTutorial.cs" t="Include" />
           <e p="MovementControlsTutorial.cs" t="Include" />
-          <e p="NewBehaviourScript.cs" t="Include" />
           <e p="RocketDestructionTutorial.cs" t="Include" />
           <e p="ShootingTutorial.cs" t="Include" />
           <e p="SingleCharacterScriptTutorial.cs" t="Include" />
