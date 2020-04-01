@@ -16,4 +16,10 @@ public class TextBehaviour : MonoBehaviour
     {
         textObj.text = dataObj.value.ToString();
     }
+
+    public void ChangeText(IntData obj)
+    {
+        textObj.text = obj.value.ToString();
+    }
+    
 }
