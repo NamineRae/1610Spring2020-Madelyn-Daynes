@@ -31,7 +31,7 @@ public class CharacterMovement : MonoBehaviour
             jumpCount++;
         }
         controller.Move(positionDirection*Time.deltaTime);
-        positionDirection.z = Input.GetAxis("Vertical")*speed;
+        //positionDirection.z = Input.GetAxis("Vertical")*speed;
         positionDirection.y -= gravity;
     }
     

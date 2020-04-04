@@ -9,6 +9,7 @@
         <e p="Scripts" t="Include">
           <e p="AlternateCoroutine.cs" t="Include" />
           <e p="CharacterMovement.cs" t="Include" />
+          <e p="CoinManager.cs" t="Include" />
           <e p="Collectable.cs" t="Include" />
           <e p="CollectableList.cs" t="Include" />
           <e p="Coroutines.cs" t="Include" />
@@ -26,6 +27,7 @@
           <e p="NewBehaviourScript.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
           <e p="Newer.cs" t="Include" />
+          <e p="PickUp.cs" t="Include" />
           <e p="RigidBodyForces.cs" t="Include" />
           <e p="SingleTrigger.cs" t="Include" />
           <e p="SpriteController.cs" t="Include" />
