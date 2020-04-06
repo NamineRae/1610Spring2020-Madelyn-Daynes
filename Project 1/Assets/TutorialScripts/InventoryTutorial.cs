@@ -9,17 +9,14 @@ public class InventoryTutorial : MonoBehaviour
         public int rockets;
         public float fuel;
         
-        public Stuff(int bul, int gre, int roc)
+        public Stuff(int bul, int gre, int roc, float fu)
         {
             bullets = bullets;
             grenades = grenades;
             rockets = rockets;
+            fuel = fuel;
         }
-public Stuff(int bul, float fu)
-{
-    bullets = bullets;
-    fuel = fuel;
-}
+
 public Stuff()
         {
             bullets = 1;
