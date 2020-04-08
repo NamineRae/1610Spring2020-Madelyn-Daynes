@@ -102,7 +102,6 @@
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/UsingInstantiateTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/InvokeScriptTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/ArraysTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/TutorialScripts/InventoryTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/MovementControlsTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/ShootingTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/SingleCharacterScriptTutorial.cs" />
@@ -118,6 +117,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CoinManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PickUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collectable.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialScripts/InventoryTutorial.cs" />
       </list>
     </option>
   </component>
@@ -207,6 +207,7 @@
       <workItem from="1585758072905" duration="1700000" />
       <workItem from="1586022435896" duration="3029000" />
       <workItem from="1586140895266" duration="2481000" />
+      <workItem from="1586190133095" duration="702000" />
     </task>
     <servers />
   </component>
