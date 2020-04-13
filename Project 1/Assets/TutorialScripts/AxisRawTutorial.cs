@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AxisRawTutorial : MonoBehaviour
+/*public class AxisRawTutorial : MonoBehaviour
 {
     public float range;
     public GUIText textOutput;
@@ -15,4 +15,4 @@ public class AxisRawTutorial : MonoBehaviour
         textOutput.text = "Value Returned: " + h.ToString("F2");
     }
 }
-//unity learn tutorial 
+//unity learn tutorial*/

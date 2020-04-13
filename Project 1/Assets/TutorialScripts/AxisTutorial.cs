@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class AxisTutorial : MonoBehaviour
+/*public class AxisTutorial : MonoBehaviour
 {
     public float range;
     public GUIText textOutput;
@@ -13,4 +13,4 @@ public class AxisTutorial : MonoBehaviour
         textOutput.text = "Value Returned: "+h.ToString("F2");
     }
 }
-//unity learn tutorial
+//unity learn tutorial*/

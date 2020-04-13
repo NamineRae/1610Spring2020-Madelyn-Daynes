@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.Design;
 using UnityEngine;
 
-public class KeyInputTutorial : MonoBehaviour
+/*public class KeyInputTutorial : MonoBehaviour
 {
     public GUITexture graphic;
     public Texture2D standard;
@@ -42,4 +42,4 @@ public class KeyInputTutorial : MonoBehaviour
         GetComponent<GUIText>().text = " " + down + "\n" + held + "\n" + up;
     }
 }
-//unity learn tutorial
+//unity learn tutorial*/

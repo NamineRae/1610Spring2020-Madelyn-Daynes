@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DualAxisTutorial : MonoBehaviour
+/*public class DualAxisTutorial : MonoBehaviour
 {
     public float range;
     public GUIText textOutput;
@@ -18,4 +18,4 @@ public class DualAxisTutorial : MonoBehaviour
                           v.ToString("F2");
     }
 }
-//unity learn tutorial
+//unity learn tutorial*/

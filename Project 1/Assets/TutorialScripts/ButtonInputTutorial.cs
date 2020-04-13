@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ButtonInputTutorial : MonoBehaviour
+/*public class ButtonInputTutorial : MonoBehaviour
 {
     public GUITexture graphic;
     public Texture2D standard;
@@ -40,4 +40,4 @@ public class ButtonInputTutorial : MonoBehaviour
         GetComponent<GUIText>().text = " " + down + "\n" + held + "\n" + up;
     }
 }
-//unity learn tutorial
+//unity learn tutorial*/

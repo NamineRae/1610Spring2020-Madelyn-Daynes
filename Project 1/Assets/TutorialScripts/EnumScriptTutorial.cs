@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnumScriptTutorial : MonoBehaviour
+/*public class EnumScriptTutorial : MonoBehaviour
 {
     enum Direction
     {
@@ -12,10 +12,10 @@ public class EnumScriptTutorial : MonoBehaviour
         West
     };
     void Start()
-    {
-        Direction myDirection;
-        myDirection = Direction.North;
-    }
+        {
+            Direction myDirection;
+            myDirection = Direction.North;
+        }
 
     Direction ReverseDirection(Direction dir)
     {
@@ -31,4 +31,4 @@ public class EnumScriptTutorial : MonoBehaviour
         return dir;
     }
 
-}
+}*/
