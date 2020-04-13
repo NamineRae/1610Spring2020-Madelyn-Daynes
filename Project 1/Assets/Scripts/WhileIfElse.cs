@@ -9,7 +9,7 @@ public class WhileIfElse : MonoBehaviour
         int counter = 10;
         while (counter > 0)
         {
-            if(counter % 2 = 0)
+            if(counter % 2 == 0)
             {
                 print(counter + "is even");
             }
@@ -18,7 +18,7 @@ public class WhileIfElse : MonoBehaviour
                 print(counter + " is odd");
             }
 
-            counter = counter - 1;
+            counter--;
         }
 
     }
