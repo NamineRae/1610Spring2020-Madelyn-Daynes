@@ -50,6 +50,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/TransformFunctionsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerDeath.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TutorialScripts/MovementControlsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollectableList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ListAndLoops.cs" root0="FORCE_HIGHLIGHTING" />
@@ -69,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/TutorialScripts/DestroyComponentTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/IfStatement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/RigidBodyForces.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/CharacterMovement.cs" />
@@ -120,6 +120,7 @@
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/EnumScriptTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/InventoryTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/WhileIfElse.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerDeath.cs" />
       </list>
     </option>
   </component>
@@ -213,6 +214,7 @@
       <workItem from="1586629364343" duration="7338000" />
       <workItem from="1586794265226" duration="2912000" />
       <workItem from="1586806717196" duration="1955000" />
+      <workItem from="1587612339604" duration="431000" />
     </task>
     <servers />
   </component>
