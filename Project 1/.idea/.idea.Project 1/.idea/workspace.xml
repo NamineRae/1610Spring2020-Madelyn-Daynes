@@ -70,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scenes/IfStatement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/RigidBodyForces.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/CharacterMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/DestroyBasicTutorial.cs" />
@@ -84,7 +83,6 @@
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/DatatypeScriptTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/UsingDeltaTimesTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SingleTrigger.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/RocketDestructionTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/InvokeRepeatingTutorial.cs" />
@@ -121,6 +119,8 @@
         <option value="$PROJECT_DIR$/Assets/TutorialScripts/InventoryTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/WhileIfElse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerDeath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerDie.cs" />
       </list>
     </option>
   </component>
@@ -215,7 +215,8 @@
       <workItem from="1586794265226" duration="2912000" />
       <workItem from="1586806717196" duration="1955000" />
       <workItem from="1587612339604" duration="1031000" />
-      <workItem from="1587948532569" duration="1204000" />
+      <workItem from="1587948532569" duration="1798000" />
+      <workItem from="1588004784358" duration="2548000" />
     </task>
     <servers />
   </component>

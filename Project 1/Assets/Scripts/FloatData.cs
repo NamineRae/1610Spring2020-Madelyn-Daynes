@@ -9,5 +9,10 @@ public class FloatData : ScriptableObject
   {
     value += number;
   }
+
+  public void ValueSet(float number)
+  {
+    value = number;
+  }
 }
 //good for keeping track of health points
