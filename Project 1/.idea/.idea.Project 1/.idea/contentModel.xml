@@ -29,7 +29,7 @@
           <e p="NewClass.cs" t="Include" />
           <e p="Newer.cs" t="Include" />
           <e p="PickUp.cs" t="Include" />
-          <e p="PlayerDeath.cs" t="Include" />
+          <e p="PlayerDie.cs" t="Include" />
           <e p="RigidBodyForces.cs" t="Include" />
           <e p="SingleTrigger.cs" t="Include" />
           <e p="SpriteController.cs" t="Include" />

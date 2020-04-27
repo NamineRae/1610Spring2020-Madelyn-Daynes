@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class PlayerDeath : MonoBehaviour
+public class PlayerDie : MonoBehaviour
 {
     public UnityEvent PlayerDeath;
     public FloatData HealthFloatData;
